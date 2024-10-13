@@ -12,8 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-09&theme=transparent&layout=pie)](https://github.com/abs-09/github-readme-stats)
 
-![Absal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abs-09&show_icons=true&theme=transparent)
-
 
 ## Character Achievements
 
