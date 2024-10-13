@@ -1,5 +1,4 @@
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/88528218?v=4" align="center" alt="Avaar" />
  <h2 align="center">Absal</h2>
  <p align="center"><b>Random Npc</b></p>
 </p>
