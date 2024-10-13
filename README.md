@@ -1,11 +1,23 @@
-- Web developer
+<p align="center">
+ <img width="100px" src="https://avatars.githubusercontent.com/u/88528218?v=4" align="center" alt="Avaar" />
+ <h2 align="center">Absal</h2>
+ <p align="center"><b>Random Npc</b></p>
+</p>
+  <div align="center">
+    <div>- Web developer / Computer Science Student from Maldives. 🇲🇻</div>
+     <div> - Profficient in Java, Php. 💻🚴</div>
+</div>
 
-- A Computer Science Student from Maldives. 🇲🇻 
 
-- Profficient in Java, Laravel php. 💻🚴
+## Character Stats
 
--*more to add here in the furture, hopefully...*
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-09)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-09&theme=transparent&layout=pie)](https://github.com/abs-09/github-readme-stats)
 
 ![Absal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abs-09&show_icons=true&theme=transparent)
+
+
+## Character Achievements
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abs-09&repo=dash-cab&theme=transparent)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abs-09&repo=BigCon-Construction&theme=transparent)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abs-09&repo=regional-food-redistribution-system&theme=transparent)
